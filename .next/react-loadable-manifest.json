@@ -1,0 +1,9 @@
+{
+  "app/components/Dashboard.tsx -> ./DynamicBarChart": {
+    "id": 1893,
+    "files": [
+      "static/chunks/301.f20fd4a28d7fb4b2.js",
+      "static/chunks/893.1f36f2bdd64b9330.js"
+    ]
+  }
+}
